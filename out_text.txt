@@ -1,0 +1,155 @@
+Contact Mohammad Mohib Ayub
+
+mohibayub23@gmail.com
+
+www.|inkedin.com/in/mohibayub-009a33147 (Linkedln)
+
+Summaw
+Top Skills & Technologies Experienced Founding Board Member of ACM Student Chapter with a
+Deep Learning demonstrated history of working in the Educational Technology and Computer
+
+Software industry. Mentorship experience in Al and Machine Learning workshops
+and development of Deep Learning and Neural Network models.
+
+Brief knowledge about Software Verification and Validation with an experience in
+Data Visualization automated testing with Selenium.
+
+Problem Solving Skilled in Python (Programming Language), Computer Science, Machine Learning,
+Python (Programming Language) Linux, and Algorithms. Strong business development professional with a Bachelor
+of Engineering focused in Computer Science.
+
+Natural Language Processing
+
+Blockchain
+
+ 
+
+Educaﬁon
+
+Courses / Gert'flcatlons: PES University Electronic City Campus (Affiliated to VTU)
+Data Visualization
+
+University of Illinois at Urbana—Champaign
+- Coursera
+
+Bachelor of Engineering, Computer Science - (2017 — 2021)
+
+Machine Learning .
+Stanford University - Coursera Experience
+
+UniConverge Technologies Pvt. Ltd.
+
+Machine Learning Intern
+April 2020
+
+Bengaluru, Karnataka, India
+
+Software Engineering Virtual Experience
+JPMorgan Chase & Co. - InsideSherpa
+
+Deep Learning Model Development for
+Natural Language Processing Tasks
+
+Qin1 - CodeQ
+
+Online Instructor (Internship)
+March 2020 — April 2020
+Bengaluru, Karnataka, India
+
+Technology Teaching Department
+
+Organizational / Volunteering Experience: Techwarts
+
+Logistics Assistant Student Mentor
+inGenious hackathon, 2019 October 2018 - October 2019
+
+Bengaluru, Karnataka, India
+IEEE PESIT South Campus Student
+
+Branch volunteer Mentorship at Machine Learning club.
+
+Registrations Assistant Bolt IoT
+ICACCI Conference, 2018 Student Intern
+
+April 2019 - May 2019
+
+Founding Board Member Bengaluru, Karnataka, India
+
+ACM PESU—ECC Student Chapter
+Business Development and
+
+popularizing concepts of ML & IoT.Other activities,
+Hackathons and Competitions:
+
+Game Jam 2018, game
+development hackathon at PES
+University.
+
+dotSIash 2019, open innovation
+challenge at PES University.
+
+Kludge 2019, PES University
+Electronic City Campus.
+
+IoT Congress India 2019, PoP91
+innovation challenge by IET India.
+
+ 
+
+Projects
+
+1. IoT based prediction of forest fires - April 2019:
+
+The prototype planned to build is a real—time prediction and alert system based
+on environmental sensors that uses classification techniques to predict
+occurrences of fires and protects forest assets and prevents tires from spreading.
+
+2. Detection of illegal deforestation & logging with
+
+Neural Networks - August 2019:
+
+Detection of illegal logging by Audio Processing with Convolutional Neural
+Networks over protected forest regions. The prototype planned to build is a
+system which could detect sounds of logging trucks, chainsaws, hammers etc.
+and detect suspicious activities in the vicinity of a protected region.
+
+3. Human Activity Recognition using Smartphones - October 2019:
+
+Human Activity Recognition (HAR) is classifying activity of a person using
+responsive sensors that are affected from human movement. Both users and
+capabilities (sensors) of smartphones increase and users usually carry their
+smartphone with them. These facts make HAR more important and popular. This
+work focuses on recognition of human activity using smartphone sensors using
+different machine learning classification approaches. Data retrieved from smart
+phones' accelerometer and gyroscope sensors are classified in order to
+recognize human activity.
+
+4. Driver Drowsiness Detection - March 2020:
+
+The objective of this project is to build a drowsiness detection prototype that uses
+Python, OpenCV, and Keras which will alert the driver when he feels sleepy. The
+trained model will detect that a person’s eyes are closed for a few seconds. This
+
+system will alert the driver when drowsiness is detected.
+
+5. RetrievaI—based Chatbot - March 2020:
+
+The chatbot prototype is built using deep learning techniques. The chatbot will be
+trained on the dataset which contains categories (intents), pattern and
+responses. We use a special recurrent neural network (LSTM) to classify which
+category the user’s message belongs to and then a random response from the
+list of responses is given.
+
+The chatbot is a retrieval based chatbot which uses NLTK (Natural Language
+Processing Toolkit), Keras and is programmed in python.
+
+6. Multilingual Toxic Comment Classification - April 2020:
+
+It only takes one toxic comment to sour an online discussion. A main area of
+focus is Machine Learning models that can identify toxicity in online
+conversations, where toxicity is defined as anything rude, disrespectful or
+otherwise likely to make someone leave a discussion. To identify these toxic
+contributions and to achieve a safer, more collaborative internet, we make use of
+a Graphical Generative BERT model in Keras (tensorflow 2.0) with HuggingFace
+transformers Python library, providing pre-trained models that are extraordinarily
+useful for Natural Language Processing (NLP).
